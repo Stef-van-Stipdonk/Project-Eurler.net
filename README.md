@@ -10,4 +10,6 @@ https://projecteuler.net/about
 - [x] Problem_4 - Largest palindrome product
 - [x] Problem_5 - Smallest multiple
 - [x] Problem_6 - Sum square difference
+- [x] Problem_7 - 10001st prime
+- [x] Problem_8 - Largest product in a series
  
