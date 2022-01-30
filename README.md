@@ -12,4 +12,5 @@ Project in which I'll be putting my solutions to the problems on Project Euler.
 - [x] Problem_6 - Sum square difference
 - [x] Problem_7 - 10001st prime
 - [x] Problem_8 - Largest product in a series
+- [x] Problem_9 - Get product of Pythagorean triple for sum 1000
  
