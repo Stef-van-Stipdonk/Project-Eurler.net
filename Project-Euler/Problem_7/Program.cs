@@ -27,4 +27,4 @@ void CheckPrime()
     primes.Add(number);
 }
 
-primes.ForEach(c => Console.WriteLine(c));
+Console.WriteLine(primes.Last());
