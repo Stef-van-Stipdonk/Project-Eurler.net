@@ -14,3 +14,5 @@ Project in which I'll be putting my solutions to the problems on Project Euler.
 - [x] Problem_8 - Largest product in a series
 - [x] Problem_9 - Get product of Pythagorean triple for sum 1000
 - [x] Problem_10 - Sum all primes with value below 2_000_000
+- [x] Problem 11 - Largest product in a grid
+
